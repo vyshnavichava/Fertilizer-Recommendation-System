@@ -3,6 +3,10 @@
 ## Overview
 A Machine Learning web application that predicts the most suitable fertilizer based on soil nutrients, crop type, temperature, humidity, and moisture.
 
+## Live Demo
+
+🌐 https://fertilizer-recommendation-system-7moh.onrender.com
+
 ## Features
 - Fertilizer prediction using Machine Learning
 - Decision Tree Classifier
