@@ -1,0 +1,4 @@
+Temperature,Humidity,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorous,Label
+25,50,30,Loamy,Corn,20,10,15,Urea
+30,60,35,Clayey,Wheat,15,20,10,DAP
+28,55,32,Sandy,Barley,18,12,14,Organic
